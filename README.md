@@ -19,22 +19,20 @@
 - 🎯 Targeting placements in **Data Analyst / Business Analyst** roles (TCS, LTIMindtree, ZopSmart)
 - 🚀 Long-term goal: **Data Engineer** at firms like Tiger Analytics, Fractal, Sigmoid
 - 💬 Ask me about Python, SQL, ETL pipelines, or DSA in C++
-- 📫 Reach me on LinkedIn or Email (add your links below)
+- 📫 Reach me on LinkedIn or Email 
 
 ---
 
 ### 🌐 Socials
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/janmaijay-jaiswal-635040283" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:janmaijayjagsan01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
